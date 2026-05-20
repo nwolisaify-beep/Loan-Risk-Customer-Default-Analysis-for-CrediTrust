@@ -9,21 +9,33 @@ The objective of this project was to analyse customer borrowing behaviour, ident
 The analysis focused on the following objectives:
 
 • Clean and prepare the loan dataset
+
 • Identify patterns behind customer loan defaults
+
 • Analyze high-risk and low-risk customer behavior
+
 • Evaluate financial risk indicators
+
 • Segment customers into risk categories
+
 • Provide business recommendations to reduce default rates
 
 ## Data Cleaning & Preparation
+
 Several data preprocessing steps were performed to improve data quality and ensure reliable analysis.
 Cleaning Activities Performed
 •	Removed duplicate records
+
 •	Handled missing values appropriately
+
 •	Standardized categorical entries
+
 •	Corrected inconsistent formatting
+
 •	Converted data types where necessary
+
 •	Treated extreme outliers in financial columns
+
 •	Created additional analytical features such as installment burden ratio and age groups
 
 ## Outcome
@@ -83,8 +95,11 @@ Low Risk	   Strong credit score, stable income, low repayment burden
 ## Business Importance
 This segmentation helps management:
 •	prioritize low-risk customers
+
 •	reduce exposure to risky borrowers
+
 •	improve loan approval decisions
+
 •	strengthen portfolio management
 
 ## Business Recommendations
@@ -100,13 +115,17 @@ should undergo stricter approval checks.
 ## Reduce Loan Exposure for Risky Customers
 Loan amounts should be reduced for customers with:
 •	low income
+
 •	high instalment burden
+
 •	unstable repayment capacity
 
 ## Improve Customer Monitoring
 High-risk borrowers should receive:
 •	closer repayment monitoring
+
 •	automated payment reminders
+
 •	periodic financial reviews
 
 ## Implement Risk-Based Lending
@@ -125,9 +144,13 @@ Implementing these recommendations can help CrediTrust:
 The analysis successfully identified the major drivers of loan default and highlighted important financial risk patterns among customers.
 Key factors influencing default included:
 •	low credit scores
+
 •	previous default history
+
 •	unstable employment
+
 •	high repayment burden
+
 Through effective data analysis and customer risk segmentation, CrediTrust can improve its loan approval strategy, reduce financial exposure, and make more informed lending decisions.
 Overall, the project demonstrates how data analytics can support smarter financial risk management and improve organizational profitability.
 
