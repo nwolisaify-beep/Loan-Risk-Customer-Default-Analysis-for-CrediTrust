@@ -42,6 +42,33 @@ Cleaning Activities Performed
 ## Loan Amount Outliers
 <img width="460" height="309" alt="Loan Amount Outliners" src="https://github.com/user-attachments/assets/f653f74a-210d-4d18-90cf-7699769649cb" />
 
+## Distribution of Loan Amount
+<img width="539" height="320" alt="Distribution of Loan Amount" src="https://github.com/user-attachments/assets/bb82118b-77e1-4b58-b6a7-249204d3b8f8" />
+
+## Average Loan Amount by Employment Status
+<img width="634" height="275" alt="Average Loan Amount by Employment Status" src="https://github.com/user-attachments/assets/7d254d9d-eabd-45fb-84c7-cdc0b776d9fd" />
+
+## Credit Score Distribution
+<img width="514" height="320" alt="Credit Score Distribution" src="https://github.com/user-attachments/assets/42807ae5-ae5a-4758-b2f2-feba2791e145" />
+
+## Loan Purpose Frequency
+<img width="562" height="320" alt="Loan Purpose Frequency" src="https://github.com/user-attachments/assets/edb8a1fe-c0cd-48d6-987b-1f14e151d45f" />
+
+## Credit Score vs Loan Default
+<img width="498" height="311" alt="Credit Score Vs Loan Default" src="https://github.com/user-attachments/assets/1012d3a5-4a0b-4773-be27-05b5a178cdce" />
+
+## Previous Default vs Current Default
+<img width="451" height="310" alt="Previous Default vs Current Default" src="https://github.com/user-attachments/assets/8b6f5c7b-da8e-4adc-a5ea-6ae8d19681dd" />
+
+## Loan Risk and Customer Derfault Analysis Dashboard
+<img width="588" height="282" alt="Loan Risk and Customer Derfault Analysis Dashboard" src="https://github.com/user-attachments/assets/cf083514-7a84-4870-89d1-654a020dae55" />
+
+## Loan Amount Distribution and Outlier Analysis Dashboard
+<img width="565" height="369" alt="Loan Amount Distribution and Outlier Analysis Dashboard" src="https://github.com/user-attachments/assets/8f17223c-8e73-46bf-b3da-a1a12932bf56" />
+
+
+
+
 
 ## Outcome
 The cleaned dataset became more accurate, consistent, and suitable for financial analysis and business decision-making.
