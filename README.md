@@ -94,6 +94,7 @@ Low Risk	   Strong credit score, stable income, low repayment burden
 
 ## Business Importance
 This segmentation helps management:
+
 •	prioritize low-risk customers
 
 •	reduce exposure to risky borrowers
