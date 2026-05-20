@@ -38,6 +38,11 @@ Cleaning Activities Performed
 
 •	Created additional analytical features such as installment burden ratio and age groups
 
+
+## Loan Amount Outliers
+<img width="460" height="309" alt="Loan Amount Outliners" src="https://github.com/user-attachments/assets/f653f74a-210d-4d18-90cf-7699769649cb" />
+
+
 ## Outcome
 The cleaned dataset became more accurate, consistent, and suitable for financial analysis and business decision-making.
 
