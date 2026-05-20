@@ -107,13 +107,16 @@ Based on the analysis, the following recommendations were proposed:
 
 ## Tighten Approval Criteria
 Customers with:
+
 •	low credit scores
+
 •	previous defaults
-•	unstable employment
-should undergo stricter approval checks.
+
+•	unstable employment should undergo stricter approval checks.
 
 ## Reduce Loan Exposure for Risky Customers
 Loan amounts should be reduced for customers with:
+
 •	low income
 
 •	high instalment burden
@@ -133,16 +136,23 @@ Different customer categories should receive different loan conditions based on 
 
 ## Business Impact
 Implementing these recommendations can help CrediTrust:
+
 •	reduce loan default rates
+
 •	improve loan recovery performance
+
 •	minimize financial losses
+
 •	improve profitability
+
 •	strengthen lending decisions
+
 •	build a healthier loan portfolio
 
 ## Conclusion
 The analysis successfully identified the major drivers of loan default and highlighted important financial risk patterns among customers.
 Key factors influencing default included:
+
 •	low credit scores
 
 •	previous default history
