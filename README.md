@@ -9,8 +9,11 @@ The objective of this project was to analyse customer borrowing behaviour, ident
 The analysis focused on the following objectives:
 
 • Clean and prepare the loan dataset
+
 • Identify patterns behind customer loan defaults
+
 • Analyze high-risk and low-risk customer behavior
+
 • Evaluate financial risk indicators
 • Segment customers into risk categories
 • Provide business recommendations to reduce default rates
